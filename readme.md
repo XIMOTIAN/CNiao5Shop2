@@ -3,7 +3,7 @@
 
 扫描下方二维码→添加菜鸟窝运营微信：Miranda_0720 →备注【商城】→进入电商app开发交流群
 
-![](https://raw.githubusercontent.com/angelOnly/CNiao5Shop22/master/WechatIMG102.png)
+![](https://raw.githubusercontent.com/angelOnly/CNiao5Shop2/master/WechatIMG102.png)
 
 [《菜鸟商城》](http://www.cniao5.com/course/10073)是一个仿淘宝客户端的实战课程，帮助你系统掌握商城类应用功能实现和开发流程，完整的实现一个商业化项目。
 
